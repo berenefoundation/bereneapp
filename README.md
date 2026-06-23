@@ -14,29 +14,6 @@
 
 ## Descargas
 
-### Versión actual (Beta 0.1)
-
-- `bereneapp-win-x64-noupdate.exe`  
-  Instalación offline (sin actualizaciones)
-
----
-
-## Seguridad
-
-Todos los ejecutables están:
-
-- Firmados digitalmente
-- Verificables mediante SHA-256
-- Publicados oficialmente por Berene Foundation
-
----
-
-## Verificación oficial
-
-Certificado: BereneFoundation Software
-
-
-
 **👉 [Descargar última versión](https://github.com/berenefoundation/bereneapp-winx64/releases/latest)**
 
 o
@@ -53,3 +30,20 @@ y para actualizar:
 ```text
 winget update BereneFoundation.BereneApp
 ```
+
+
+---
+
+## Seguridad
+
+Todos los ejecutables están:
+
+- Firmados digitalmente
+- Verificables mediante SHA-256
+- Publicados oficialmente por Berene Foundation
+
+---
+
+## Verificación oficial
+
+Certificado: BereneFoundation Software
