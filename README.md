@@ -34,3 +34,22 @@ Todos los ejecutables están:
 ## Verificación oficial
 
 Certificado: BereneFoundation Software
+
+
+
+**👉 [Descargar última versión](https://github.com/berenefoundation/bereneapp-winx64/releases/latest)**
+
+o
+
+**👉 [Ve a la página de versiones](https://github.com/berenefoundation/bereneapp-winx64/releases/)**
+
+o
+
+Ejecuta este comando en PowerShell o CMD en Windonws para instalarlo con winget:
+```text
+winget install BereneFoundation.BereneApp
+```
+y para actualizar:
+```text
+winget update BereneFoundation.BereneApp
+```
