@@ -22,7 +22,7 @@ o
 
 o
 
-Ejecuta este comando en PowerShell o CMD en Windonws para instalarlo con winget:
+Ejecuta este comando en PowerShell o CMD en Windows para instalarlo con winget:
 ```text
 winget install BereneFoundation.BereneApp
 ```
@@ -38,7 +38,7 @@ winget update BereneFoundation.BereneApp
 
 Todos los ejecutables están:
 
-- Firmados digitalmente
+- Firmados digitalmente con BereneFoundation Software
 - Verificables mediante SHA-256
 - Publicados oficialmente por Berene Foundation
 
