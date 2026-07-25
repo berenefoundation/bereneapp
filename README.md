@@ -36,7 +36,7 @@ Todos los ejecutables están:
 
 - Firmados digitalmente con BereneFoundation Software
 - Verificables mediante SHA-256
-- Publicados oficialmente por Berene Foundation
+- Publicados oficialmente por BereneFoundation
 
 ---
 
