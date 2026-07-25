@@ -14,10 +14,6 @@
 
 ## Descargas
 
-**👉 [Descargar última versión](https://github.com/berenefoundation/bereneapp-winx64/releases/latest)**
-
-o
-
 **👉 [Ve a la página de versiones](https://github.com/berenefoundation/bereneapp-winx64/releases/)**
 
 o
