@@ -8,7 +8,9 @@
 
 ## ¿Qué es BereneApp?
 
-**BereneApp** es una aplicación desarrollada por Berene Foundation para ofrecer un entorno de software educativo y experimental.
+**BereneApp** es el cliente rápido, optimizado y seguro habilitado por BereneFoundation para acceder a la Berene Foundation Web de forma rápida, segura y efectiva. Descargala hoy mismo para Windows 8, 8.1, 10 y 11.
+
+(¿Estás buscando la versión de Windows 7 / Dispositivos lentos? Buscala en nuestra web, ya que esta no está garantizado el funcionamiento en los sistemas / equipos más antiguos.)
 
 ---
 
