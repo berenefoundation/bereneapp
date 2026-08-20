@@ -1,4 +1,4 @@
-# BereneApp Custom License
+# BereneApp License
 
 **Copyright (c) 2026 Berene Foundation**
 
@@ -66,4 +66,4 @@ IN NO EVENT SHALL BERENE FOUNDATION OR THE COPYRIGHT HOLDERS BE LIABLE FOR ANY C
 
 **Berene Foundation reserves all rights not expressly granted by this license.**
 
-**BereneApp Custom License — 2026**
+**BereneApp License — 2026**
