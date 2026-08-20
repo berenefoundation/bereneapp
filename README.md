@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-beta-red)
 ![Version](https://img.shields.io/badge/version-v0.1.1-blue)
-![Info](https://img.shields.io/badge/sign-BereneSoftware%20License-green)
+![Info](https://img.shields.io/badge/(c)-Berene%20Foundation-green)
 
 ---
 
